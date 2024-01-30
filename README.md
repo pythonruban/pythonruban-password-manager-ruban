@@ -13,12 +13,12 @@ This app uses [AES-256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standa
 ## Installation
 
 ### Basic Installation
-Download the [Latest Release](https://github.com/bharavi15/Password-Manager/releases) according to your operating system.
+Download the [Latest Release]( https://github.com/pythonruban/password-manager/releases) according to your operating system.
 ### Install using GIT
 
 Use Git clone to clone into the repository.
 ```cmd
-git clone https://github.com/bharavi15/Password-Manager.git
+git clone https://github.com/pythonruban/password-manager.git
 ```
 Install the required dependencies 
 ```cmd
